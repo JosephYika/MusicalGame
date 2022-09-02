@@ -1,0 +1,338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/GenericScenes/StartMenu.unity
+    guid: 024d97282d5a22244ba056bb319f61b4
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_IntermediaryModeWhite.unity
+    guid: b81babbd3d5b1b647aeb9ba789c6da21
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode1.unity
+    guid: 2884e6ac182fca84487042d5fef72572
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode2.unity
+    guid: 9fbe3a21b9d69d047a5bdc821c9c93c5
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode3.unity
+    guid: 64fdda8ee2374b446a190d578efefa59
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode4.unity
+    guid: f225b33ea59fb484c8cd25616db711e4
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode8_Slow.unity
+    guid: bda3ac26ab318684fb7b4a922723e920
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode8_Faster.unity
+    guid: 2244dd53027c38341b055620346f7402
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode8_Fast.unity
+    guid: fbb95e3f9dbf4f24185bc41b53ca93c8
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_IntermediaryModeBlack.unity
+    guid: 2f68e68ae6de21a4593eeaae2906c403
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode5.unity
+    guid: c6984e2954955044c9e2fa82649d2cee
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode6.unity
+    guid: 5835acfa40ff4904b9b04b21e4c4475e
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode7.unity
+    guid: e33ec36cd31b81243a5a380f3147cb5c
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Level3_MajorChordStart.unity
+    guid: 685cea9fecf60ca4ca9e06ac0fe29ed1
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Level3_MinorChordStart.unity
+    guid: fdedf5f1d41d43a47ae33d455a919746
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Level3_Mode1Minor.unity
+    guid: e45a5d76c5bbfd24080ec601e42d7334
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode9_Slow.unity
+    guid: 5950a816e3b0d8f468afe495c1b4349b
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_0.unity
+    guid: 74f630f9d8960a946afc88b09c41128a
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/CongratulationsMenu.unity
+    guid: 6a2e78650f950db448a0ce8382ed43b9
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_1.unity
+    guid: dccb54ef334d7f049838238dc2fd9774
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_2.unity
+    guid: 5ce02249fe355c34eb779712bc188ec6
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_3.unity
+    guid: 5de305a3c3cbdf04e9ad2aac0f87e109
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_4.unity
+    guid: 7bc2815ad0ac5f447b6351d24873486c
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_5.unity
+    guid: d03d6ae77bc3f9a499f8a890bbe2d6a2
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/4th/Level2_Tutorial4th_6.unity
+    guid: 3635f6c904c5ca4418276635c62a1d36
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode9_Faster.unity
+    guid: 1313afc7134c094438d8f41d0048a0e0
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode9_Fast.unity
+    guid: 940b42fd2fbc8584b8f87988f64de141
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode10_White_Slow.unity
+    guid: 1c9a3a316ea135949a90f354a2d67a80
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode10_White_Faster.unity
+    guid: 61f64c1407e1dda43b701319481e0a7b
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode10_White_Fast.unity
+    guid: 9442edfee51c5b34198188f7c90cb04f
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode10_Black_Slow.unity
+    guid: d50ce6d6cb2258842b69efdf0ef4c5b7
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode10_Black_Fast.unity
+    guid: bd0a031843135894888fb561af174c11
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene0.unity
+    guid: dd28757aabbe8cc44b07faf256ce0681
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene1.unity
+    guid: 9d1366ca394503041962a4137c3d4145
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene2.unity
+    guid: 0dd4c083a61223d4c8e78f5b8b935fbe
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene3.unity
+    guid: 014a42ba322683240b9644d785adaea3
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene4.unity
+    guid: 1046a2e6b395f10419bcbc07499374e2
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene5.unity
+    guid: dfd94e3343058274787a940ba2599168
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene6.unity
+    guid: 7ba597a1b7dc53f43ab353b539213b1d
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene7.unity
+    guid: f8e7cbab94db6aa4d82fd309ec076164
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene8.unity
+    guid: 27023ba04698fdd41aab6d19375ed66b
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene9.unity
+    guid: cc8633e29b29a97418449cd3c2803637
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene10.unity
+    guid: 24016b9e1f89d6042937dde6493f5879
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene11.unity
+    guid: 62b948eebc73d9f46adc11a891d29806
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene12.unity
+    guid: f4d34730d6cdc954cad1f0b4bb8eb6ee
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene13.unity
+    guid: f4e7f14b0f930ab429e6fc9ddecbc991
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene14.unity
+    guid: bc9bbd177123fa54aa54f038a4eff9bd
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene15.unity
+    guid: 35406d60530f5604397ab7122ea1b451
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene16.unity
+    guid: 1bf8e236172520549bf48431ba8a5ca7
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Tutorials_Level1/TutorialScene17.unity
+    guid: 332636cf55f037d4498c95673cbaa5e8
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene0.unity
+    guid: 6f8def797efab4841b2f81ca15ac0178
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene1.unity
+    guid: da3565192e8dec9499da1302f239b68c
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene2.unity
+    guid: f8c1d463d6133134aa2707f7f870cd81
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene3.unity
+    guid: 9dbbc773bcddeb849a53a9b35a5a09a0
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene4.unity
+    guid: 7211d7c433231014da4afcfd180d03a8
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene5.unity
+    guid: 30c17986e5f52f241a40d3a865adcd79
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene6.unity
+    guid: ff942f259c100b34eb17c594ff7ec283
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene7.unity
+    guid: 698d4ad60ca50694abf2e9e3252622c7
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_scene8.unity
+    guid: 03d848bed0196c6458e6b4cf919941bb
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene9.unity
+    guid: 1575f2faf5f28fe4abe9e306f2051228
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene10.unity
+    guid: 6d12eb03b9d6b86478c7fbda8a284dd2
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene11.unity
+    guid: f7e859cc80ab8e24bb174198facdc2f0
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene12.unity
+    guid: 2cc2f05f0311cd1469bbd2e97470977b
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene13.unity
+    guid: d14e8ddcd68cd6b48be87a12f496cb6e
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene14.unity
+    guid: 31739f49e5de72e4dae6444cbe7afb10
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene15.unity
+    guid: 7baf7ee45cea2a8409372797d5076f79
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene16.unity
+    guid: a013c8694f67e9a46ac7361b0bc3bed1
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene17.unity
+    guid: dc1b12326cacc00429ea3158418c76ee
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene18.unity
+    guid: dbe47cfdad68d2441908972a4067e116
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/Interval_Introduction/Level2_Tutorial_Scene19.unity
+    guid: 2d7b17148b75b0c46819fe6ba2b43355
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Start2nd.unity
+    guid: 1cedb175315b1f645a6759fab212c0b4
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene20.unity
+    guid: abb3d6615c7215b468382c4bbf428c00
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene21.unity
+    guid: 8ca944fd23760fc42a27f1444686642b
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene22.unity
+    guid: b258f462989ab034aa0f21633ce12fe4
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene23.unity
+    guid: c1621891fa06d3349bffe8e8bdc0cf8e
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene24.unity
+    guid: 2100068eccad45f43a49c0be44d71ccb
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene25.unity
+    guid: 1da9b73e359d660489ead385ae53636a
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene26.unity
+    guid: 0618472c1dfd72547bc76763133f8f0c
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/2nd/Level2_Tutorial_Scene27.unity
+    guid: fdc2dd5c4056bec42af919a83455e888
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Mode1.unity
+    guid: 32ca888acfaf5a84896ce622248b22a6
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Mode1_Faster.unity
+    guid: fcfde74023057f742bb0eec9b5651399
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/3rd/Level2_Tutorial_Start3rd.unity
+    guid: 85b64e25db6f40248ae59e7b99d9820f
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Mode2.unity
+    guid: 258e804eede5b8c46b2425b6fcade063
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Mode2_Faster.unity
+    guid: 9055867041052914697aa606c6967975
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Mode3.unity
+    guid: 921e17896d48c6f4ca3f3f0334903aa9
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Mode3_Faster.unity
+    guid: 1350490e72cf4d849805390eac1e1691
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Level2_Congratulations.unity
+    guid: 6bcb67298540cec45af160d8c8769bf5
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/3rd/Level2_Tutorial3rd_1.unity
+    guid: 7aad62dfe3d4d2b499342c497aff8fc9
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/3rd/Level2_Tutorial3rd_2.unity
+    guid: 87ada65efe26ccb41af8233a0535b7bd
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level2/Tutorials_Level2/3rd/Level2_Tutorial3rd_3.unity
+    guid: e3edf2a0f901f8240814dc3cc60037f3
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Level3_Mode0Major.unity
+    guid: 68a42892cbb710741b2dd5dc92b65e76
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level1/Level1_Mode10.unity
+    guid: 281984d951a10b54694d1f778be30cc9
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_0.unity
+    guid: 9408d8b9dcca9c54ea98557f30d9d444
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_1.unity
+    guid: 6e22064656c7602468308f08ddf64579
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_2.unity
+    guid: 8825894978a2b8c4eab87b17c0a3273f
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_3.unity
+    guid: 55ed019089e2b2a4c9c9abb76b089a16
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_4.unity
+    guid: 852f12ebb2d7eb740883b7f7071d8367
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_5.unity
+    guid: 011d24f8d8a557e4eaeb84675d481a9e
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_6.unity
+    guid: 800bb2e73f122884693e0066a3fd1e65
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_7.unity
+    guid: 299efc460036c374c9c778dbff965ed1
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_8.unity
+    guid: 645af24a577ca544ea592ec605d8251e
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_9.unity
+    guid: e44b914160dfaac4dbe33735f87c4ad5
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_10.unity
+    guid: cb5de2a062a668a4294f05aea8677326
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_11.unity
+    guid: 5b97f14729242b34eac70e0a0f8be722
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_12.unity
+    guid: 59de5bf1e11510c43892e9d3f1edf82b
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_13.unity
+    guid: c62ee59e65bd28146abefc12d40ec69a
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_14.unity
+    guid: a9c50b9774139cc4c84bd9dc90ab431c
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_15.unity
+    guid: 9dbd55777cfebd940a293cc10408f589
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_16.unity
+    guid: 93bf6312beaf59f43bd422f48d236ffb
+  - enabled: 1
+    path: Assets/Scenes/Official_Scenes/Level3/Tutorials_Level3/TutorialLevel3_17.unity
+    guid: c7b9ca5e564500a43b70c97d7fe1eec9
+  m_configObjects: {}
